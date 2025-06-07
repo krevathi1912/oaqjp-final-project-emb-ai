@@ -1,1 +1,1 @@
-form . i emotion_detection
+from . import emotion_detection
